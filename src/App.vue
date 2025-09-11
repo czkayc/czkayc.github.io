@@ -3,7 +3,7 @@ import HelloWorld from './components/HelloWorld.vue'
 </script>
 
 <template>
-  <HelloWorld msg="Vite + Vue" />
+  <HelloWorld msg="暴打玉辰" />
 </template>
 
 <style scoped>
